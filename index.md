@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Development Practice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Development Environment Setup Successful!</h1>
+    <p>Hello World from HTML.</p>
+
+    <script src="script.js"></script>
+</body>
+</html>
